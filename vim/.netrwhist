@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/pod2metra/workspace/mirantis/ringcentral/Development/rc-ads-webui'
+let g:netrw_dirhist_2='/etc/nginx/conf.d'
+let g:netrw_dirhist_3='/etc/nginx/sites-available'
+let g:netrw_dirhist_4='/home/pod2metra'
+let g:netrw_dirhist_5='/home/pod2metra/workspace/mirantis/ringcentral/Development/rc-ads-webui'
+let g:netrw_dirhist_6='/home/pod2metra/workspace/mirantis/ringcentral/Development/rc-ads-webui/rcads'
+let g:netrw_dirhist_7='/home/pod2metra/workspace/mirantis/ringcentral/Development/rc-ads-webui'
+let g:netrw_dirhist_8='/home/pod2metra/workspace/mirantis/ringcentral/Development'
